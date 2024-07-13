@@ -5,9 +5,9 @@ A simple registration form created with HTML and CSS for basic user sign-up func
 
 ### Features
 -**Form Fields**
-  -Name (Txext input)
-  -Email(Email input)
-  -Password (Password input)
+  - Name (Txext input)
+  - Email(Email input)
+  - Password (Password input)
   - Confirm Password (Password input)
     
 - **Validation**:
